@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import NavBar from "@/components/NavBarComponent/NavBarComponent";
+import NavBar from "@/components/NavBar/NavBarComponent";
 
 export default {
   name: "LandingPage",
